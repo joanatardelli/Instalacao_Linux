@@ -19,7 +19,6 @@ Scripts para facilitar a instalação dos aplicativos obrigatórios apos instala
 <li>Dropbox</li>
 </ul>
 
-<b>This script also removes LibreOffice.</b>
 
 <h2>Como executar?</h2>
 
