@@ -1,7 +1,6 @@
-# linux-essentials
-Script for install many mandatory apps on linux after a fresh install of the OS.
+Scripts para facilitar a instalação dos aplicativos obrigatórios apos instalar o Linux.
 
-<b>Programs and resources included:</b>
+
 <ul>
 <li>Google Chrome</li>
 <li>Chromium Browser</li>
@@ -22,10 +21,9 @@ Script for install many mandatory apps on linux after a fresh install of the OS.
 
 <b>This script also removes LibreOffice.</b>
 
-<h2>How to run?</h2>
+<h2>Como executar?</h2>
 
-1- Put the .sh file in your $HOME directory<br>
-2- Give permission: <pre>chmod 777 linux-essentials.sh</pre>
-3- Then run: <pre>./linux-essentials.sh</pre>
+1- Insira o arquivo .sh no seu $HOME directory<br>
+2- Dê a permissão: <pre>chmod 777 linux-essentials.sh</pre>
+3- Em seguida execute: <pre>./linux-essentials.sh</pre>
 
-PS.: Follow all instalations til the end, sometimes the script needs an user entry.
